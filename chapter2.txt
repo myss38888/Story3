@@ -1,1 +1,1 @@
-This is the second test file in this new repository.
+This is the second test-new-plot test file in this new repository.
